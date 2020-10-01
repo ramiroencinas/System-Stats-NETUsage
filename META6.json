@@ -1,6 +1,6 @@
 {
 	"perl"                    : "6.*",
-	"raku: "                  : "6.*",
+	"raku"                    : "6.*",
 	"name"                    : "System::Stats::NETUsage",
     "version"                 : "1.0.0",
     "provides"                : {
